@@ -17,7 +17,6 @@ const Index = () => {
   return (
     <Container centerContent>
       <VStack spacing={4} justifyContent="center" alignItems="center" height="100vh">
-        <Image borderRadius="full" boxSize="150px" src="https://via.placeholder.com/150" alt="Flower" mb={4} />
         <Heading as="h1" size="4xl">
           Timer
         </Heading>
